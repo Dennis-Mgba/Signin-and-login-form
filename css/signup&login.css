@@ -1,0 +1,65 @@
+body{
+	background: #14171A;
+	color: #757873;
+	font-family: consolas;
+}
+
+.body{
+	padding-top: 200px;
+}
+
+.i{
+	width: 400px;
+	margin-bottom: 20px;
+	background-color: transparent;
+	height: 38px;
+	border-radius: 6px;
+	border: 1px solid #fff;
+	padding-left: 5px;
+}
+
+.smt_btn{
+	width: 400px;
+	height: 38px;
+	color: #fff;
+	background-color: transparent;
+	border-radius: 8px;
+	border: 1px solid #fff;
+}
+
+.smt_btn:hover{
+	border: 1px solid #2DB82D;
+	color: #2DB82D;
+}
+
+.i:focus{
+	border: 1px solid #2DB82D;
+	padding-left: 10px;
+}
+
+#msg-{
+	color: #bbb;
+	width: 400px;
+	margin-top: 50px;
+}
+
+#msg- small{
+	font-size: 8px;
+}
+
+
+.appr{
+	text-align: center;
+	margin-top: 100px;
+	font-size: 10px;
+}
+
+.appr a{
+	
+}
+
+.appr a:hover{
+	text-decoration: none;
+	cursor: pointer;
+}
+
